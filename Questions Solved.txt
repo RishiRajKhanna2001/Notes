@@ -1,0 +1,29 @@
+*Kunal's DSA Sheet
+
+Arrays-Easy=1,2,3,4
+       Medium=1,2,(3-not done),4
+       Hard=
+
+Searching-Easy=1,2,3,4
+          Medium=1,2,3,4
+          Hard=
+
+Sorting-Easy=1,2,3,4
+        Medium=1,2,3
+        Hard=
+
+Strings-Easy=1,2,3,4,5,6,7
+        Medium=1-not done,2-not done,3,4
+        Hard=
+
+
+Time Complexity-Linear = Doubt***
+                Divide & conquer= Done;
+
+Pattern-Done;
+
+Recursion-Easy=1,2,3,4,5,6,7,8,9,10,11,12-not done,
+          Medium=
+          Hard=
+
+ 
