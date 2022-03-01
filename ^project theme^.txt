@@ -1,0 +1,13 @@
+  JavaScript Projects
+
+1)notes project- it is based on various js-events.
+
+2)news project- it is based on api-calls.
+
+3)form-validation project- based on regular expression.
+
+4)clock project- contains a alarm clock along with a timer showing the original time.
+
+5)postman clone- get and post request website.
+
+//Do rest of the projects from Code_With_Harry Javascript Playlist..
